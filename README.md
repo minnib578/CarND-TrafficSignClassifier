@@ -19,8 +19,8 @@ The goals / steps of this project are the following:
 
 [//]: # (Image References)
 
-[image1]: ./BeforeVisualization.PNG "Before Augmentation Visualization"
-[image2]: ./AfterVisualization.PNG "After Augmentation Visualization"
+[image1]: ./BeforeVisualization.png "Before Augmentation Visualization"
+[image2]: ./AfterVisualization.png "After Augmentation Visualization"
 [image2]: ./grayscale.jpg "Grayscaling"
 [image3]: ./augmentation.jpg "Augmented Data"
 [image4]: ./Image001.jpg "Traffic Sign 1"
