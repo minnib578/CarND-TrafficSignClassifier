@@ -1,22 +1,6 @@
 # **Traffic Sign Recognition** 
 ---
 
-## Introduction
-
-_**Note:** This project makes use of  [Udacity Traffic Sign Classifier Project Repository]( https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project) and [German Traffic Sign Dataset]( http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). The dataset can be found in the link above._
----
-
-**Build a Traffic Sign Recognition Project**
-
-The goals / steps of this project are the following:
-* Load the data set (see below for links to the project data set)
-* Explore, summarize and visualize the data set
-* Design, train and test a model architecture
-* Use the model to make predictions on new images
-* Analyze the softmax probabilities of the new images
-* Summarize the results with a written report
-
-
 [//]: # (Image References)
 
 [image1]: ./BeforeVisualization.png "Before Augmentation Visualization"
@@ -29,6 +13,23 @@ The goals / steps of this project are the following:
 [image7]: ./Image004.jpg "Traffic Sign 4"
 [image8]: ./Image005.jpg "Traffic Sign 5"
 [image9]: ./NN_Architecture.jpg "NN Architecture"
+
+## Introduction
+
+_**Note:** This project makes use of  [Udacity Traffic Sign Classifier Project Repository]( https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project) and [German Traffic Sign Dataset]( http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). The dataset can be found in the link above._
+
+---
+
+**Build a Traffic Sign Recognition Project**
+
+The goals / steps of this project are the following:
+* Load the data set
+* Explore, summarize and visualize the data set
+* Perform data augmentation
+* Design, train and test a model architecture
+* Use the model to make predictions on new images
+* Analyze the softmax probabilities of the new images
+* Summarize the results with a written report
 
 ## Rubric Points
 ### Here I will consider the [rubric points](https://review.udacity.com/#!/rubrics/481/view) individually and describe how I addressed each point in my implementation.  
