@@ -1,9 +1,9 @@
 # **Traffic Sign Recognition** 
+---
 
-## Writeup
+## Introduction
 
-### You can use this file as a template for your writeup if you want to submit it as a markdown file, but feel free to use some other method and submit a pdf if you prefer.
-
+_**Note:** This project makes use of  [Udacity Traffic Sign Classifier Project Repository]( https://github.com/udacity/CarND-Traffic-Sign-Classifier-Project) and [German Traffic Sign Dataset]( http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset). The dataset can be found in the link above._
 ---
 
 **Build a Traffic Sign Recognition Project**
